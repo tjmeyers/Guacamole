@@ -8,7 +8,9 @@ This repos contains a recipe for guacamole
 
 ### Ingredients
 
-Lists the ingredients and quantities
+Lists
+1. Ingredients
+2. Quantities
 
 ### Recipe
 
