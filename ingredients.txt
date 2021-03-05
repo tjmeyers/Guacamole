@@ -1,2 +1,7 @@
 3 avocados
-1 tomatoes
+1 tomato
+onion
+garlic
+cilantro
+salt
+lime juice
